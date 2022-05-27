@@ -1,0 +1,23 @@
+body{
+	background-color: blue;
+	color: white;
+	font-family: calibri;
+}
+
+h1{
+	color: yellow;
+}
+
+b{
+	color: orange;
+	background: black;
+	padding: 10px;
+	border-radius: 5px;
+}
+p{
+	background: white;
+	color: blue;
+	padding: 5px;
+	border-radius: 5px;
+	box-shadow: black 2px 2px 5px;
+}
